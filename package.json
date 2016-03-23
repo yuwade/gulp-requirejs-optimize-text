@@ -1,0 +1,16 @@
+{
+  "name": "gulp-requirejs-optimize-text",
+  "version": "1.0.0",
+  "description": "text pack",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yu",
+  "license": "ISC"
+}
